@@ -1,3 +1,12 @@
+# Tenzies
+This is a Simple React Application where user play the game, To win Player need to freeze all the Dice with same value.
+
+### Sample Images
+
+![Initial Phase](https://user-images.githubusercontent.com/65899056/167008888-f9e5a690-7a8e-4eee-83e5-0cbca24ba124.png)
+![Final Phase](https://user-images.githubusercontent.com/65899056/167008897-cae00225-8b92-4eb7-8716-0edddbec404f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
